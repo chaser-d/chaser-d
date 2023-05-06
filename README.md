@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Kotlin full stack
 - 💞️ I’m looking to collaborate on not sure, yet
-- 📫 How to reach me through github
+- 📫 Reach me through github
 
 <!---
 chaser-d/chaser-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
